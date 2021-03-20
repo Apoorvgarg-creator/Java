@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Genric_Heap.java&apos; to &apos;Huffman encoder/src/huffman&apos;&#x0A;- Original project: &apos;Graph&apos;&#x0A;- Destination element: &apos;Huffman encoder/src/huffman&apos;&#x0A;- Original element: &apos;grph.Genric_Heap.java&apos;" description="Copy compilation unit" destination="=Huffman encoder/src&lt;huffman" element1="/src&lt;grph{Genric_Heap.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1590306049270" units="1" version="1.0"/>
+</session>

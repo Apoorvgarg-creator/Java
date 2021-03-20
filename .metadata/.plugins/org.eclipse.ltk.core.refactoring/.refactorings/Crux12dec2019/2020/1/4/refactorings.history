@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;queue&apos; in &apos;L20jan19.Genric_tree.levelorderzigzag()&apos; to &apos;stack&apos;&#x0A;- Original project: &apos;Crux12dec2019&apos;&#x0A;- Original element: &apos;L20jan19.Genric_tree.levelorderzigzag().queue&apos;&#x0A;- Renamed element: &apos;queue&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;queue&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;L20jan19{Genric_tree.java[Genric_tree~levelorderzigzag@queue!4678!4719!4695!4699!QLinkedList\&lt;Qnode;&gt;;!0!false" name="stack" references="true" stamp="1579410119967" version="1.0"/>
+</session>

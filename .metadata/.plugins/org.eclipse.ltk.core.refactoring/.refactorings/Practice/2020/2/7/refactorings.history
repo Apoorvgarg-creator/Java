@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;ans&apos; in &apos;a.sudoku_solver.safe(...)&apos; to &apos;page&apos;&#x0A;- Original project: &apos;Practice&apos;&#x0A;- Original element: &apos;a.sudoku_solver.safe(int, int, int, int[][]).ans&apos;&#x0A;- Renamed element: &apos;ans&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;ans&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;a{sudoku_solver.java[sudoku_solver~safe~I~I~I~\[\[I@ans!1209!1219!1217!1219!\[\[I!0!true" name="page" references="true" stamp="1581784286159" version="1.0"/>
+</session>

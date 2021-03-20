@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;queue&apos; in &apos;grph.Graph.dfs_haspath(...)&apos; to &apos;stack&apos;&#x0A;- Original project: &apos;Graph&apos;&#x0A;- Original element: &apos;grph.Graph.dfs_haspath(String, String).queue&apos;&#x0A;- Renamed element: &apos;queue&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;queue&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;grph{Graph.java[Graph~dfs_haspath~QString;~QString;@queue!4088!4133!4109!4113!QLinkedList\&lt;Qbfs_pair;&gt;;!0!false" name="stack" references="true" stamp="1590157999897" version="1.0"/>
+</session>
