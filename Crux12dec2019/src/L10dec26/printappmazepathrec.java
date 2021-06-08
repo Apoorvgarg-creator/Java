@@ -17,9 +17,9 @@ public class printappmazepathrec {
 			return;
 
 		}
-		mazepath(vidr + 1, vidc, er, er, ans + "V");
-		mazepath(vidr, vidc + 1, er, er, ans + "H");
-		mazepath(vidr + 1, vidc + 1, er, er, ans + "D");
+		mazepath(vidr + 1, vidc, er, ec, ans + "V");
+		mazepath(vidr, vidc + 1, er, ec, ans + "H");
+		mazepath(vidr + 1, vidc + 1, er, ec, ans + "D");
 	}
 
 }
