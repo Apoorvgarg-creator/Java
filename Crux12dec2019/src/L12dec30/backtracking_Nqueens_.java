@@ -79,7 +79,7 @@ public class backtracking_Nqueens_ {
 			cr--;
 			cc--;
 		}
-		// Diagonally left
+		// Diagonally right
 		cr = row - 1;
 		cc = col + 1;
 		while (cc < board.length && cr >= 0) {
